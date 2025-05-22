@@ -1,5 +1,4 @@
 # SemanticKB
-SemanticKB: 利用 Ollama 大模型进行语义切分、滑窗处理和多级摘要的智能知识库底座，兼顾本地隐私与成本效益。（SemanticKB: An intelligent knowledge base foundation leveraging Ollama LLMs for semantic chunking, sliding window context, and multi-level summarization, prioritizing local privacy and cost-efficiency.）
 🚀 SemanticKB: 智能知识库底座 (Ollama 本地部署版)
 SemanticKB 是一个创新的知识库底座解决方案，它利用大型语言模型（LLM）的强大语义理解能力，彻底改变了传统知识库的构建和管理方式。
 
