@@ -239,8 +239,8 @@ def batch_process_files(input_paths, output_dir="output"):
 # ========= 示例入口 =========
 if __name__ == "__main__":
     input_files = [
-        "SemanticKB/《西游记》【爱上阅读_www.isyd.net】.txt",
-        # "SemanticKB/《红楼梦》【爱上阅读_www.isyd.net】.txt",
-        # "SemanticKB/《三国演义》【爱上阅读_www.isyd.net】.txt"
+        "SemanticKB/《西游记》.txt",
+        # "SemanticKB/《红楼梦》.txt",
+        # "SemanticKB/《三国演义》.txt"
     ]
     batch_process_files(input_files, output_dir="SemanticKB/output")
